@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mancoba Thabethe
 - 👀 I’m interested in just building Web Applications that solve small problems.
 - 🌱 I’m currently learning JavaScript & Backend basics
-- 💞️ I’m looking to collaborate on a new web application I am looking to build.
+- 🖥️ I upload projects every week on my YouTube channel to helps others learn as well as improve my own skills. YT: atmc0de
 - 📫 My DMs are always open on Twitter @MThabeth3
 
 <!---
